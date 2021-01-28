@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">demoapp3</string>
+    <string name="app_name">Liam SERINE</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -9,6 +9,7 @@
 
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
+    <string name="menu_vehicles">Vehicles</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="quote_edit">Création / Modification</string>
 </resources>
